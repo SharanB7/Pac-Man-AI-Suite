@@ -1,4 +1,4 @@
-# Reward-Based Pacman
+# Reward-Based Pac-Man
 
 **Description**: This project dives into reinforcement learning through a series of exercises where Pacman learns to maximize rewards by navigating through a grid and avoiding negative outcomes. Techniques include Value Iteration, Q-learning, and Approximate Q-learning.
 
